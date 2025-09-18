@@ -1,4 +1,4 @@
-# MFE-UNet: MetaFormer-driven Encoding Network for Robust Iris Segmentation
+# MFEnNet: MetaFormer-driven Encoding Network for Robust Medical Semantic Segmentation
 
 to be updated...
 
