@@ -6,10 +6,20 @@ Accepted to be presented at International Conference on Machine and Computing Te
 
 ## Introduction
 
-#### Architecture
+### Architecture
 
 <p align="center">
 <img src="docs/MFEnNet.jpg" width="1000">
+</p>
+
+### Results
+
+<p align="center">
+<img src="docs/results_casia.png" width="1000">
+</p>
+
+<p align="center">
+<img src="docs/results_isbi.png" width="1000">
 </p>
 
 ## Train
