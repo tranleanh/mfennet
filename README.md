@@ -28,6 +28,16 @@ The official implementation of the paper [MetaFormer-driven Encoding Network for
 python train.py
 ```
 
+## Citation
+```bibtex
+@article{tran2026metaformer,
+  title={MetaFormer-driven Encoding Network for Robust Medical Semantic Segmentation},
+  author={Tran, Le-Anh and Tran, Chung Nguyen and Dang, Nhan Cach and Van Quoc, Anh Le and Carrabina, Jordi and Castells-Rufas, David and Nguyen, Minh Son},
+  journal={arXiv preprint arXiv:2601.00922},
+  year={2026}
+}
+```
+
 Have fun!
 
 LA Tran
