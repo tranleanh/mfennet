@@ -1,8 +1,8 @@
 # MFEnNet: MetaFormer-driven Encoding Network for Robust Medical Semantic Segmentation
 
-The official implementation of the paper "MetaFormer-driven Encoding Network for Robust Medical Semantic Segmentation".
+[![Preprint](https://img.shields.io/badge/Preprint-arXiv-red)](https://arxiv.org/abs/2601.00922)
 
-Accepted to be presented at International Conference on Machine and Computing Technologies for Sustainable Development (MCT4SD 2025)
+The official implementation of the paper [MetaFormer-driven Encoding Network for Robust Medical Semantic Segmentation](https://arxiv.org/abs/2601.00922) (MCT4SD 2025).
 
 ## Introduction
 
